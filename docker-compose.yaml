@@ -39,4 +39,6 @@ networks:
 
 volumes:
     postgres:
+      name: postgres
     pgadmin:
+      name: pgadmin
